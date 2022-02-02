@@ -108,7 +108,8 @@
 
 <details>
   <summary>案例展示</summary>
-  
+
+- [PeoTik:诗词wordle](https://peotik.com/)一个诗词解谜小游戏，玩法类似wordle，每日一句（首）诗词。谢谢这个丰富的诗词库。
 - [中文诗歌主页](https://shici.store)是一个基于浏览器的诗词网站，包含唐诗三百首、宋词三百首等文集。
 - [animalize](https://github.com/animalize) **/** [QuanTangshi](https://github.com/animalize/QuanTangshi)  *离线全唐诗 Android*
 - [justdark](https://github.com/justdark) **/** [pytorch-poetry-gen](https://github.com/justdark/pytorch-poetry-gen)  *a char-RNN based on pytorch*
@@ -119,6 +120,7 @@
 - [huangjianke](https://github.com/huangjianke) **/** [weapp-poem](https://github.com/huangjianke/weapp-poem/) *诗词墨客 小程序版*
 - [汉字之美](https://hz.xusenlin.com/) *汉字之美是一个方便查询的诗词网站，简洁干净，方便使用。*
 - [PaddlePaddle](https://github.com/PaddlePaddle) **/** [PaddleNLP](https://github.com/PaddlePaddle/PaddleNLP#%E4%BA%A4%E4%BA%92%E5%BC%8Fnotebook%E6%95%99%E7%A8%8B) *基于ERNIE-GEN(Transformer)的深度学习诗词生成，可自行修改逻辑来生成多种诗词风格。*
+ 
 
 </details>
 
